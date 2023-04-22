@@ -1,0 +1,3 @@
+﻿
+C:/Users/Administrator/Downloads/bayes_classifier-master/data/test/1_11.txt :  7
+C:/Users/Administrator/Downloads/bayes_classifier-master/data/test/3_69.txt :  2
